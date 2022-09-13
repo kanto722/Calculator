@@ -48,6 +48,8 @@ body {
     padding: 0 20px;
     font-size: 2em;
     font-weight: 500;
+    max-width: 300px;
+    overflow: hidden
 }
 .dark .calculator .buttons #value {
     background: #33393e;
